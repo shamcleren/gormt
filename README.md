@@ -27,7 +27,7 @@
 ## install
 
 ```
-go get -u -v github.com/xxjwxc/gormt@master
+go get -u -v github.com/shamcleren/gormt@master
 ```
 
 or: [Dowloading](https://github.com/xxjwxc/gormt/releases)
