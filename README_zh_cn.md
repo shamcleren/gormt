@@ -30,7 +30,7 @@
 ## 安装
 
 ```
-go get -u -v github.com/xxjwxc/gormt@master
+go get -u -v github.com/shamcleren/gormt @master
 ```
 
 或者: [下载地址](https://github.com/xxjwxc/gormt/releases)
